@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationManager</string>
+    <string name="btn_location">Get location</string>
+    <string name="tv_location">Location: </string>
+</resources>
